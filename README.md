@@ -30,7 +30,7 @@ I am currently a computer science student with a specialization in front end dev
 
 If you are interested in my skills and person, I invite you to browse my portfolio or repositories.
 [Portfolio](https://marcin-czaniecki.netlify.app)
-[Repozytoria](https://github.com/janossik?tab=repositories)
+[Repositories](https://github.com/janossik?tab=repositories)
 
 ###### polish version
 # Cześć, Jestem Marcin!
