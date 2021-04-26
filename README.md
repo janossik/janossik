@@ -4,11 +4,11 @@
 # Hi, I'm Marcin!
 I am currently a computer science student with a specialization in front end developer. Currently, I am constantly developing my skills and looking for my first job in my profession, but I do not close myself to other technologies.
 
-** Technologies I know: **
+**Technologies I know:**
 - HTML / CSS
 - JavaScript
 - TypeScript
-- React * (including react-query, styled-components, react-router-dom etc.) *
+- React *(including react-query, styled-components, react-router-dom etc.)*
 - NodeJS
 - Redux
 - GraphQL
@@ -16,13 +16,13 @@ I am currently a computer science student with a specialization in front end dev
 - Mongodb / mongoose
 - SQLite
 
-** Technologies I have used, but it is not enough to say that I know: **
+**Technologies I have used, but it is not enough to say that I know:**
 - SQL (mysql, psql etc.)
-- Angular / Vue * (something at ToDoList level) *
+- Angular / Vue *(something at ToDoList level)*
 - Lot
 - Java / C # / Unity
 
-** Graphics programs I know **
+**Graphics programs I know**
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe XD
