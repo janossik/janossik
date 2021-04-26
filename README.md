@@ -1,5 +1,5 @@
-[english](#english)
-[polish](#polish)
+[english](#user-content-english-version)
+[polish](#user-content-polish-version)
 ###### english version
 # Hi, I'm Marcin!
 I am currently a computer science student with a specialization in front end developer. Currently, I am constantly developing my skills and looking for my first job in my profession, but I do not close myself to other technologies.
