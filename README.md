@@ -19,7 +19,7 @@ I am currently a computer science student with a specialization in front end dev
 **Technologies I have used, but it is not enough to say that I know:**
 - SQL (mysql, psql etc.)
 - Angular / Vue *(something at ToDoList level)*
-- Lot
+- Parcel
 - Java / C # / Unity
 
 **Graphics programs I know**
