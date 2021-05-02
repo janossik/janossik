@@ -2,7 +2,7 @@
 [polish](#user-content-polish-version)
 ###### english version
 # Hi, I'm Marcin!
-I am currently a computer science student with a specialization in front end developer. Currently, I am constantly developing my skills and looking for my first job in my profession, but I do not close myself to other technologies.
+I am computer science student with a specialization in front end developer. Currently, I am constantly developing my skills and looking for my first job in my profession, but I do not close myself to other technologies.
 
 **Technologies I know:**
 - HTML / CSS
@@ -34,7 +34,7 @@ If you are interested in my skills and person, I invite you to browse my portfol
 
 ###### polish version
 # Cześć, Jestem Marcin!
-Aktualnie jestem studentem informatyki o specjalizacji front end developer. Aktualnie zajmuje się ciągłym rozwojem swoich umiejętności i poszukiwaniem pierwszej pracy w moim zawodzie, jednak nie zamykam się na inne technologie.
+Jestem studentem informatyki o specjalizacji front end developer. Aktualnie zajmuje się ciągłym rozwojem swoich umiejętności i poszukiwaniem pierwszej pracy w moim zawodzie, jednak nie zamykam się na inne technologie.
 
 **Technologie, które znam:**
 - HTML/CSS
