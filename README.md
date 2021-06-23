@@ -15,6 +15,7 @@ I am computer science student with a specialization in front end developer. Curr
 - Storybook
 - Mongodb / mongoose
 - SQLite
+- Next
 
 **Technologies I have used, but it is not enough to say that I know:**
 - SQL (mysql, psql etc.)
@@ -47,6 +48,7 @@ Jestem studentem informatyki o specjalizacji front end developer. Aktualnie zajm
 - Storybook
 - Mongodb/mongoose
 - SQLite
+- Next
 
 **Technologie, z których korzystałem, ale to za mało, żeby powiedzieć, że znam:**
 - SQL (mysql, psql itp.)
