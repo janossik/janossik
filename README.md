@@ -1,72 +1,16 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janossik)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janossik&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
-[english](#user-content-english-version)
-[polish](#user-content-polish-version)
-###### english version
 # Hi, I'm Marcin!
-I am computer science student with a specialization in front end developer. Currently, I am constantly developing my skills and looking for my first job in my profession, but I do not close myself to other technologies.
 
-**Technologies I know:**
-- HTML / CSS
-- JavaScript
-- TypeScript
-- React *(including react-query, styled-components, react-router-dom etc.)*
-- NodeJS
-- Redux
-- GraphQL
-- Storybook
-- Mongodb / mongoose
-- SQLite
-- Next
+I'm a 25 year old, graduating with an engineering degree in 2022. I mainly program in React/NextJs, but I have used many technologies during my path. I like to play with code, whether it's creating modifications to Minecraft or solving a problem.
 
-**Technologies I have used, but it is not enough to say that I know:**
-- SQL (mysql, psql etc.)
-- Angular / Vue *(something at ToDoList level)*
-- Parcel
-- Java / C # / Unity
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janossik&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-**Graphics programs I know**
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
-- Figma
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janossik&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-If you are interested in my skills and person, I invite you to browse my portfolio or repositories.
-[Portfolio](https://marcin-czaniecki.netlify.app)
-[Repositories](https://github.com/janossik?tab=repositories)
+- I'm currently working on improving my Github so that I can be proud of it.
+- I'm currently learning gsap, forge 1.18.2 and trying to learn remix. 
+- I'm looking for a job, if you are interested and would like to work with me, please send me an email: marcinczaniecki97@gmail.com 
 
-###### polish version
-# Cześć, Jestem Marcin!
-Jestem studentem informatyki o specjalizacji front end developer. Aktualnie zajmuje się ciągłym rozwojem swoich umiejętności i poszukiwaniem pierwszej pracy w moim zawodzie, jednak nie zamykam się na inne technologie.
-
-**Technologie, które znam:**
-- HTML/CSS
-- JavaScript
-- TypeScript
-- React *(w tym react-query, styled-components, react-router-dom itp.)*
-- NodeJS
-- Redux
-- GraphQL
-- Storybook
-- Mongodb/mongoose
-- SQLite
-- Next
-
-**Technologie, z których korzystałem, ale to za mało, żeby powiedzieć, że znam:**
-- SQL (mysql, psql itp.)
-- Angular / Vue *(coś na poziomie ToDoList)*
-- Parcel
-- Java/C#/Unity
-
-**Programy graficzne, które znam**
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
-- Figma
-
-Jeżeli ciebie zainteresowałem swoimi umiejętnościami i osobą, zapraszam cię do przejrzenia mojego portfolio lub repozytoriów.
-[Portfolio](https://marcin-czaniecki.netlify.app)
-[Repozytoria](https://github.com/janossik?tab=repositories)
+Browse my [repositories](https://github.com/janossik?tab=repositories)
 
 <!--
 **janossik/janossik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
