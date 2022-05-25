@@ -10,8 +10,6 @@ I'm a 25 year old, graduating with an engineering degree in 2022. I mainly progr
 - I'm currently learning gsap, forge 1.18.2 and trying to learn remix. 
 - I'm looking for a job, if you are interested and would like to work with me, please send me an email: marcinczaniecki97@gmail.com 
 
-Browse my [repositories I want to show](https://github.com/stars/janossik/lists/the-ones-i-want-to-show)
-
 <!--
 **janossik/janossik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
