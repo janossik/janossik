@@ -1,7 +1,5 @@
 # Hi, I'm Marcin!
 
-I'm a 25 year old, graduating with an engineering degree in 2022. I mainly program in React/NextJs, but I have used many technologies during my path. I like to play with code, whether it's creating modifications to Minecraft or solving a problem.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janossik&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janossik&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
