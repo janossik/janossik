@@ -4,9 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janossik&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- I'm currently working on improving my Github so that I can be proud of it.
-- I'm currently learning gsap, forge 1.18.2 and trying to learn remix. 
-- I'm looking for a job, if you are interested and would like to work with me, please send me an email: marcinczaniecki97@gmail.com 
+🔭 I am currently working on **Webinek**. It's a product of Arex WB and it's software for **PKP** *(Polish State Railways)*.
 
 <!--
 **janossik/janossik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
