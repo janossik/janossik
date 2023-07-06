@@ -1,9 +1,5 @@
 # Hi, I'm Marcin!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janossik&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janossik&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 🔭 I'm currently working on **Webinek**. It's a product of Arex WB and it's software for **PKP** *(Polish State Railways)*.
 
 <!--
